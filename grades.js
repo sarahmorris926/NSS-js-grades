@@ -1,1 +1,2 @@
-console.log("Hello world");
+var scores = [82, 71, 95, 55, 98, 69, 72, 78, 84, 64, 58, 87];
+
